@@ -106,7 +106,7 @@ mc = MyCobot('/dev/ttyUSB0', 1000000)
 自主开发项目位于：
 
 ```text
-~/mycobot_dev/
+~/robotic_arm_control/
 ```
 
 当前目录结构：
