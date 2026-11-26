@@ -112,7 +112,7 @@ mc = MyCobot('/dev/ttyUSB0', 1000000)
 当前目录结构：
 
 ```text
-mycobot_dev/
+robotic_arm_control/
 ├── README.md
 ├── robot/
 │   ├── __init__.py
